@@ -29,7 +29,7 @@
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
     - [Usage](#usage)
-    - [Testing](#testing)
+  
 
 ---
 
@@ -81,11 +81,11 @@ Build speech-to-text-ai from the source and intsall dependencies:
 ```sh
 ❯ conda env create -f conda.yml
 ```
-
-### Usage
-3. **Download the OpenAI Medium Model:**
+4. **Download the OpenAI Medium Model:**
 
     (https://s.go.ro/960a9gvi)
+
+### Usage
 
 ```sh
 conda activate {venv}
