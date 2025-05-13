@@ -83,7 +83,7 @@ Build speech-to-text-ai from the source and intsall dependencies:
 ```
 4. **Download the OpenAI Medium Model:**
 
-    (https://s.go.ro/960a9gvi)
+https://s.go.ro/960a9gvi
 
 ### Usage
 
